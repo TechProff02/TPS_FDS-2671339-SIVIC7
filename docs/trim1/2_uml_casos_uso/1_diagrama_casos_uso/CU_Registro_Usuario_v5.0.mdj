@@ -262,7 +262,7 @@
 											"top": 362.5,
 											"width": 149,
 											"height": 13,
-											"text": "CU04 Eliminar Usuario"
+											"text": "CU03 Eliminar Usuario"
 										},
 										{
 											"_type": "LabelView",
@@ -1879,7 +1879,7 @@
 											"top": 458,
 											"width": 149,
 											"height": 13,
-											"text": "CU03 Consultar Usuario"
+											"text": "CU04 Consultar Usuario"
 										},
 										{
 											"_type": "LabelView",
@@ -2078,7 +2078,7 @@
 											"top": 566,
 											"width": 126,
 											"height": 26,
-											"text": "CU03.1 Generar Reporte Usuarios",
+											"text": "CU04.1 Generar Reporte Usuarios",
 											"wordWrap": true
 										},
 										{
@@ -3501,7 +3501,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "CU04 Eliminar Usuario",
+					"name": "CU03 Eliminar Usuario",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -4100,7 +4100,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "CU03 Consultar Usuario"
+					"name": "CU04 Consultar Usuario"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -4108,7 +4108,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "CU03.1 Generar Reporte Usuarios",
+					"name": "CU04.1 Generar Reporte Usuarios",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
