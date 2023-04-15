@@ -3376,7 +3376,7 @@
 											"top": 614,
 											"width": 132,
 											"height": 26,
-											"text": "CU06 Generar Reporte de Ventas",
+											"text": "CU06 Generar Reporte Ventas",
 											"wordWrap": true
 										},
 										{
@@ -4582,7 +4582,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "CU06 Generar Reporte de Ventas",
+					"name": "CU06 Generar Reporte Ventas",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",

@@ -713,7 +713,7 @@
 											"top": 582,
 											"width": 120,
 											"height": 26,
-											"text": "CU5.1 Generar Reporte por ID",
+											"text": "CU05 Generar Reporte Productos",
 											"wordWrap": true
 										},
 										{
@@ -3571,7 +3571,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFElm6BOFNpegQ="
 					},
-					"name": "CU5.1 Generar Reporte por ID"
+					"name": "CU05 Generar Reporte Productos"
 				},
 				{
 					"_type": "UMLUseCase",
